@@ -1,0 +1,1 @@
+en esta carpeta se encuentra en su mayoria ejemplos como trabajos ue hecho para practicar mi sistema de analsis de datos en varios campos, utilizando varias herramientas y creando informes y conclusiones sobre esto, para tener ejercicios practicos y trucos que me permitan tener una mejor comprecion

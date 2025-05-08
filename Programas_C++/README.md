@@ -1,0 +1,1 @@
+En esta carpeta estan varios programas o proyectos en C y C++ en los cuales utilizo plataformas como Scilab o Matlab para ejecutar codigo, aun que en lo personal no megusta mucho este lenguaje en dichas plataformas.

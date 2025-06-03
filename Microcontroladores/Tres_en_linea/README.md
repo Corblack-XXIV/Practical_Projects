@@ -13,3 +13,7 @@ x|o|x
 x| |o
 
 I also want to emphasize that this code was designed for an arduino mega so if you want to replicate it to another arduino it is necessary to change the input pins.
+
+sketch
+
+![image](https://github.com/user-attachments/assets/3b919327-b4eb-42d0-954a-a58592e5162b)

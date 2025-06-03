@@ -13,5 +13,3 @@ Hello! This repository contains a collection of basic projects and examples deve
 My goal with this space is to build a portfolio of programs that reflect my evolution, serve as a future reference and can also be useful for other people interested in learning in a practical way.
 
 In addition, I will be uploading other personal and collaborative projects that complement my training and experience in the area.
-
-Translated with DeepL.com (free version)

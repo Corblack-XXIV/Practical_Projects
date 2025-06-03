@@ -108,6 +108,9 @@ bool verificarGanador() {
     if (tablero[i][0] == s && tablero[i][1] == s && tablero[i][2] == s) return true;
     if (tablero[0][i] == s && tablero[1][i] == s && tablero[2][i] == s) return true;
   }
+
+// codigo creado por nicolas cortes parra, derechos reservados
+  
   if (tablero[0][0] == s && tablero[1][1] == s && tablero[2][2] == s) return true;
   if (tablero[0][2] == s && tablero[1][1] == s && tablero[2][0] == s) return true;
   return false;
@@ -236,6 +239,7 @@ void mostrarPantallaInicio() {
   }
 }
 
+// reproduccion cancion de victoria
 void reproducirMelodiaGanadora() {
   
   tone(BUZZER_PIN, 523.25, 133);
